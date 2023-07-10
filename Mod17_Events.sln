@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33513.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxElement", "Mod17_Events\MaxElement.csproj", "{D8AC8B7D-D407-47E4-B74A-D634EDBCDDD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxElement", "MaxElement\MaxElement.csproj", "{D8AC8B7D-D407-47E4-B74A-D634EDBCDDD4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindFiles", "FindFiles\FindFiles.csproj", "{3A9769E9-A919-47BA-A7E0-DAD7147BC5D5}"
 EndProject
